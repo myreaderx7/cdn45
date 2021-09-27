@@ -1,0 +1,52 @@
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="UTF-8" />
+</head>
+<body>
+<div>
+<p style="text-align:center;">
+<img width="228" height="39" src="data:image/jpeg;base64,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">
+</p>
+<h1 style="text-align:center;font-size:18px">
+壹傳媒有限公司
+ </h1>
+
+
+<h1>訂戶通知｜關於你的訂閱 About your subscription</h1>
+ 
+<p>
+感謝讀者對《蘋果動新聞》和《壹週刊》的支持。《蘋果》及《壹週刊》網站和應用程式，將於香港時間6月23日晚上11:59起停止運作。</p>
+
+<p>請注意：隨着《蘋果日報》（香港及海外）停運，《蘋果》網站、所有專題網頁，及《蘋果》旗下的所有社交平台賬號已經停用。</p>
+<p>《蘋果日報》從未授權任何人仕，以《蘋果日報》名義，在任何地方、網上平台或網上社交平台，進行任何出版、發佈或刊登任何曾出版的內容。《蘋果日報》亦從未授權任何人仕，以《蘋果》名義進行任何眾籌、代理廣告刊登、出版及印刷《蘋果日報》的本地或海外版等一切事宜，讀者應小心分辨。</p>
+ 
+<h1 style="font-size:18px">停止續訂</h1>
+<p>《蘋果》和《壹週刊》全部網上訂閱計劃及iOS的app內訂閱在即日起停止自動續訂，並停止接受新訂閱，Google app內訂閱的訂戶請自行登入Google商店取消，敬請留意。</p>
+ 
+<p><b>Google app內訂閱的取消辦法：基於Google的限制，訂戶必須自行停止續訂。請登入Google商店，按你的Google賬戶（即右上角你的頭像），再按「付款和訂閱」，在「訂閱」中按「蘋果動新聞」及／或「壹週刊」，再按「取消訂閱」。</b></p>
+ 
+<p>我們現正諮詢法律意見，如有最新消息，將會再通知訂戶。</p>
+ 
+<h1 style="font-size:18px">感謝各位訂戶支持</h1>
+<p>《蘋果》及《壹週刊》感謝讀者、訂戶、廣告客戶及香港人一直以來的厚愛和支持。在此別過，珍重。</p>
+ 
+<h1 style="font-size:18px">查詢</h1>
+<p>如有任何問題或查詢，可參閱<a href="https://www.nextdigital.com.hk/subscribe/faq_hk.html">常見問題</a>和<a href="https://www.nextdigital.com.hk/subscribe/tnc.html">條件及細則</a><br/>
+ 
+<h1 style="font-size:18px">Dear subscribers</h1>
+ 
+<p>Thank you for supporting Apple Daily and Next Magazine. We are sad to inform you that Apple Daily and Next Magazine’s web and app content will no longer be accessible at 23:59, 23 June 2021, HKT. </p>
+
+<p>Apple Daily (Hong Kong and Overseas) has never authorized any party to publish in any form, including print, online or offline.  Moreover, Apple Daily has never authorized any representative, in Hong Kong or in any part of the world, to accept any crowdfunding, fund-raising, accepting advertisement or publish in any form.</p>
+ 
+<p>All current web and iOS subscriptions will not be renewed.  We are ceasing all new subscriptions today.</p>
+ 
+<p>Please note that you may have to cancel your subscription by yourself, if you subscribed through Google in-app purchase.</p>
+ 
+<p>We would like to thank all of our readers, subscribers, advertisers, and Hongkonger for your loyal support.</p>
+ 
+ 
+<p>Good luck, and goodbye.</p>
+</body>
+</html>
